@@ -23,6 +23,7 @@ public class Pruebarepositorio2019 {
         */
         System.out.println("mi primer proyecto navrod 3da linea");
         System.out.println("Milton Rios");
+        System.out.println("Milton Rios Miranda");
     }
     
 }
